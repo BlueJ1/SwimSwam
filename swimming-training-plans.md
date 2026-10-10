@@ -1,9 +1,8 @@
 # Swimming training plans
 
-> Page boundaries are inferred from each longer/shorter training plan pair because the pasted text has no explicit page markers. Repeated plans and stated totals are preserved.
+> The text is grouped into 18 pages. The 1800m/900m plan occupies its own page. Repeated plans and stated totals are preserved.
 
 ## Page 1
-
 
 ### The longer training plan
 
@@ -27,6 +26,29 @@
 
 **Total: 1000m**
 
+---
+
+### The longer training plan
+
+- 200m warm up
+- 2 × 100m stroke of your choice, turn without touching the wall
+- 4 × 25m kicks underwater
+- 3 × (50m kicks as fast as possible, 50m easy, 50m only arms, 50m kicks as fast as possible)
+- 200m cool down
+
+**Total: 1500m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 2 × 75m 25m freestyle, 25m backstroke, 25m breaststroke
+- 6 × 25m kicks, hold same speed for each 25m
+- 2 × 100m focus on breathing out in the water and keeping one eye in the water when breathing in
+- 3 × (50m swim fast, 25m catch up drill, 25m four strokes freestyle + 4 strokes backstroke etc)
+- 100m cool down
+
+**Total: 1000m**
 
 ---
 
@@ -34,29 +56,61 @@
 
 ## Page 2
 
-
 ### The longer training plan
 
 - 200m warm up
+- 100m freestyle (look up towards where you are going every 6 strokes)
+- 4 × 50m kicks as fast as you can
+- 200m backstroke (4 strokes w/ one arm, 4 strokes w/ the other arm, 4 strokes w/ both arms)
+- 4 × 25m freestyle as fast as you can, take as few breaths as possible
+- 100m breaststroke (arms by your side, try to touch your fingertips with each legstroke)
 - 2 × 100m stroke of your choice, turn without touching the wall
-- 4 × 25m kicks underwater
-- 3 × (50m kicks as fast as possible, 50m easy, 50m only arms, 50m kicks as fast as possible)
 - 200m cool down
 
-**Total: 1500m**
+**Total: 1300m**
 
 
 ### The shorter training plan
 
 - 100m warm up
-- 2 × 75m 25m freestyle, 25m backstroke, 25m breaststroke
-- 6 × 25m kicks, hold same speed for each 25m
-- 2 × 100m focus on breathing out in the water and keeping one eye in the water when breathing in
-- 3 × (50m swim fast, 25m catch up drill, 25m four strokes freestyle + 4 strokes backstroke etc)
+- 4 × 25m swim with 10s rest
+- 50m kicks
+- 2 × 50m backstroke with 15s rest
+- 100m swim as fast as you can
+- 50m kicks
+- 4 × 50m, try to only use your arms, kick a little so that you're legs don’t sink
 - 100m cool down
 
-**Total: 1000m**
+**Total: 800m**
 
+---
+
+### The longer training plan
+
+- 200m warm up
+- 100m freestyle (look up towards where you are going every 6 strokes)
+- 4 × 50m kicks as fast as you can
+- 200m backstroke (4 strokes w/ one arm, 4 strokes w/ the other arm, 4 strokes w/ both arms)
+- 4 × 25m freestyle as fast as you can, take as few breaths as possible
+- 100m breaststroke (arms by your side, try to touch your fingertips with each legstroke)
+- 2 × 100m stroke of your choice, turn without touching the wall
+- 200m cool down
+
+**Total: 1300m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 4 × 25m swim with 10s rest
+- 50m kicks
+- 2 × 50m backstroke with 15s rest
+- 100m swim as fast as you can
+- 50m kicks
+- 4 × 50m, try to only use your arms, kick a little so that you're legs don’t sink
+- 100m cool down
+
+**Total: 800m**
 
 ---
 
@@ -64,34 +118,55 @@
 
 ## Page 3
 
-
 ### The longer training plan
 
 - 200m warm up
-- 100m freestyle (look up towards where you are going every 6 strokes)
-- 4 × 50m kicks as fast as you can
-- 200m backstroke (4 strokes w/ one arm, 4 strokes w/ the other arm, 4 strokes w/ both arms)
-- 4 × 25m freestyle as fast as you can, take as few breaths as possible
-- 100m breaststroke (arms by your side, try to touch your fingertips with each legstroke)
-- 2 × 100m stroke of your choice, turn without touching the wall
+- 4 × 50m (increase speed every 50m, last 50m should be super fast) 10s rest between each 50m
+- 100m kicks
+- 6 × 50m (25m fast, 25m easy) 15s rest between each 50m
+- 100m easy
+- 100m only arms
+- 2 × 100m breaststroke (increase your speed every 25m, last 25m should be super fast)
 - 200m cool down
 
-**Total: 1300m**
+**Total: 1400m**
 
 
 ### The shorter training plan
 
 - 100m warm up
-- 4 × 25m swim with 10s rest
-- 50m kicks
-- 2 × 50m backstroke with 15s rest
-- 100m swim as fast as you can
-- 50m kicks
-- 4 × 50m, try to only use your arms, kick a little so that you're legs don’t sink
+- 4 × 25m kicking on your back
+- 4 × 50m swim with 30s rest between each 50m
+- 2 × 50m swim with 20s rest, different stroke from the 4 × 50m
 - 100m cool down
 
-**Total: 800m**
+**Total: 600m**
 
+---
+
+### The longer training plan
+
+- 200m warm up
+- 4 × 50m (increase speed every 50m, last 50m should be super fast) 10s rest between each 50m
+- 100m kicks
+- 6 × 50m (25m fast, 25m easy) 15s rest between each 50m
+- 100m easy
+- 100m only arms
+- 2 × 100m breaststroke (increase your speed every 25m, last 25m should be super fast)
+- 200m cool down
+
+**Total: 1400m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 4 × 25m kicking on your back
+- 4 × 50m swim with 30s rest between each 50m
+- 2 × 50m swim with 20s rest, different stroke from the 4 × 50m
+- 100m cool down
+
+**Total: 600m**
 
 ---
 
@@ -99,183 +174,75 @@
 
 ## Page 4
 
-
-### The longer training plan
+### Longer training plan
 
 - 200m warm up
-- 100m freestyle (look up towards where you are going every 6 strokes)
-- 4 × 50m kicks as fast as you can
-- 200m backstroke (4 strokes w/ one arm, 4 strokes w/ the other arm, 4 strokes w/ both arms)
-- 4 × 25m freestyle as fast as you can, take as few breaths as possible
-- 100m breaststroke (arms by your side, try to touch your fingertips with each legstroke)
-- 2 × 100m stroke of your choice, turn without touching the wall
-- 200m cool down
+- 2 ×  the pyramid (stroke of your choice):
+- 100m: 10s rest
+- 150m: 15s rest
+- 200m: 20s rest
+- 150m: 15s rest
+- 100m: 10s rest
+- 100m slow: 60s rest
 
-**Total: 1300m**
+The pyramid should be at a quite fast tempo so that you’re properly tired at the end!
 
-
-### The shorter training plan
-
-- 100m warm up
-- 4 × 25m swim with 10s rest
-- 50m kicks
-- 2 × 50m backstroke with 15s rest
-- 100m swim as fast as you can
-- 50m kicks
-- 4 × 50m, try to only use your arms, kick a little so that you're legs don’t sink
 - 100m cool down
 
-**Total: 800m**
+**Total: 1900m**
 
+
+### Shorter training plan
+
+- 100m warm-up
+- 2 × 50m kicking on your back
+- 2 × 50m superman
+- 2 × 50m kicking in streamlineposition with freestyle strokes when breathing
+- 2 × 100m freestyle drills (tickling your armpit, handclap, surfing, butterfly kicks)
+- 2 × 25m skulling
+- 4 × 50m do as few strokes as possible per 25m
+- 100m cold down
+
+**Total: 1000m**
+
+---
+
+### Longer training plan
+
+- 200m warm up
+- 2 ×  the pyramid (stroke of your choice):
+- 100m: 10s rest
+- 150m: 15s rest
+- 200m: 20s rest
+- 150m: 15s rest
+- 100m: 10s rest
+- 100m slow: 60s rest
+
+The pyramid should be at a quite fast tempo so that you’re properly tired at the end!
+
+- 100m cool down
+
+**Total: 1900m**
+
+
+### Shorter training plan
+
+- 100m warm-up
+- 2 × 50m kicking on your back
+- 2 × 50m superman
+- 2 × 50m kicking in streamlineposition with freestyle strokes when breathing
+- 2 × 100m freestyle drills (tickling your armpit, handclap, surfing, butterfly kicks)
+- 2 × 25m skulling
+- 4 × 50m do as few strokes as possible per 25m
+- 100m cold down
+
+**Total: 1000m**
 
 ---
 
 <div style="page-break-before: always;"></div>
 
 ## Page 5
-
-
-### The longer training plan
-
-- 200m warm up
-- 4 × 50m (increase speed every 50m, last 50m should be super fast) 10s rest between each 50m
-- 100m kicks
-- 6 × 50m (25m fast, 25m easy) 15s rest between each 50m
-- 100m easy
-- 100m only arms
-- 2 × 100m breaststroke (increase your speed every 25m, last 25m should be super fast)
-- 200m cool down
-
-**Total: 1400m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 4 × 25m kicking on your back
-- 4 × 50m swim with 30s rest between each 50m
-- 2 × 50m swim with 20s rest, different stroke from the 4 × 50m
-- 100m cool down
-
-**Total: 600m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 6
-
-
-### The longer training plan
-
-- 200m warm up
-- 4 × 50m (increase speed every 50m, last 50m should be super fast) 10s rest between each 50m
-- 100m kicks
-- 6 × 50m (25m fast, 25m easy) 15s rest between each 50m
-- 100m easy
-- 100m only arms
-- 2 × 100m breaststroke (increase your speed every 25m, last 25m should be super fast)
-- 200m cool down
-
-**Total: 1400m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 4 × 25m kicking on your back
-- 4 × 50m swim with 30s rest between each 50m
-- 2 × 50m swim with 20s rest, different stroke from the 4 × 50m
-- 100m cool down
-
-**Total: 600m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 7
-
-
-### Longer training plan
-
-- 200m warm up
-- 2 ×  the pyramid (stroke of your choice):
-- 100m: 10s rest
-- 150m: 15s rest
-- 200m: 20s rest
-- 150m: 15s rest
-- 100m: 10s rest
-- 100m slow: 60s rest
-
-The pyramid should be at a quite fast tempo so that you’re properly tired at the end!
-
-- 100m cool down
-
-**Total: 1900m**
-
-
-### Shorter training plan
-
-- 100m warm-up
-- 2 × 50m kicking on your back
-- 2 × 50m superman
-- 2 × 50m kicking in streamlineposition with freestyle strokes when breathing
-- 2 × 100m freestyle drills (tickling your armpit, handclap, surfing, butterfly kicks)
-- 2 × 25m skulling
-- 4 × 50m do as few strokes as possible per 25m
-- 100m cold down
-
-**Total: 1000m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 8
-
-
-### Longer training plan
-
-- 200m warm up
-- 2 ×  the pyramid (stroke of your choice):
-- 100m: 10s rest
-- 150m: 15s rest
-- 200m: 20s rest
-- 150m: 15s rest
-- 100m: 10s rest
-- 100m slow: 60s rest
-
-The pyramid should be at a quite fast tempo so that you’re properly tired at the end!
-
-- 100m cool down
-
-**Total: 1900m**
-
-
-### Shorter training plan
-
-- 100m warm-up
-- 2 × 50m kicking on your back
-- 2 × 50m superman
-- 2 × 50m kicking in streamlineposition with freestyle strokes when breathing
-- 2 × 100m freestyle drills (tickling your armpit, handclap, surfing, butterfly kicks)
-- 2 × 25m skulling
-- 4 × 50m do as few strokes as possible per 25m
-- 100m cold down
-
-**Total: 1000m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 9
-
 
 ### Longer training plan
 
@@ -304,13 +271,7 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 **Total: 1100-1300m**
 
-
 ---
-
-<div style="page-break-before: always;"></div>
-
-## Page 10
-
 
 ### Longer training plan
 
@@ -339,13 +300,11 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 **Total: 1100-1300m**
 
-
 ---
 
 <div style="page-break-before: always;"></div>
 
-## Page 11
-
+## Page 6
 
 ### Longer training plan
 
@@ -375,13 +334,7 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 **Total: 750m**
 
-
 ---
-
-<div style="page-break-before: always;"></div>
-
-## Page 12
-
 
 ### Longer training plan
 
@@ -411,13 +364,11 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 **Total: 750m**
 
-
 ---
 
 <div style="page-break-before: always;"></div>
 
-## Page 13
-
+## Page 7
 
 ### Longer training plan
 
@@ -450,6 +401,353 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 **Total: 900m**
 
+---
+
+<div style="page-break-before: always;"></div>
+
+## Page 8
+
+### Longer training plan
+
+- 200m warm-up
+- 2 × 50m (25m kicks on your side, 25m one arm swimming freestyle)
+- 2 × 50m only arms, stroke of your choice
+
+#### Set: stroke of your choice
+
+- 4 ×  (50m kicks, 50m as few strokes as possible, 50m as few breaths as possible, 50m fast)
+- 100m easy
+- 200m cool-down
+
+**Total: 1500m**
+
+
+### Shorter training plan
+
+- 150m warmup
+- 8 × 25m fast, 30s rest
+- 100m with one less stroke per 25m
+- 4 × 25m try to only breathe 5 times per 25 m
+- 100m with one less stroke per 25m
+- 150m cool down
+
+**Total: 800m**
+
+---
+
+### Longer training plan
+
+- 200m warm-up
+- 2 × 50m (25m kicks on your side, 25m one arm swimming freestyle)
+- 2 × 50m only arms, stroke of your choice
+
+#### Set: stroke of your choice
+
+- 4 ×  (50m kicks, 50m as few strokes as possible, 50m as few breaths as possible, 50m fast)
+- 100m easy
+- 200m cool-down
+
+**Total: 1500m**
+
+
+### Shorter training plan
+
+- 150m warmup
+- 8 × 25m fast, 30s rest
+- 100m with one less stroke per 25m
+- 4 × 25m try to only breathe 5 times per 25 m
+- 100m with one less stroke per 25m
+- 150m cool down
+
+**Total: 800m**
+
+---
+
+<div style="page-break-before: always;"></div>
+
+## Page 9
+
+### The longer training plan
+
+- 200m warm up
+- 4 × 50m freestyle drills (ex. surfing, tickling the armpit, butterfly kicks, one arm swimming)
+- 4 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 200m backstroke (4 strokes w/ one arm, 4 strokes w/ the other arm, 4 strokes w/ both arms)
+- 4 × 50m do as few strokes as possible per 25m
+- 3 × (50m swim fast, 25m catch up drill, 25m four strokes freestyle + 4 strokes backstroke etc)
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter training plan
+
+- 100m warm-up
+- 2 × 100m freestyle drills (tickling your armpit, handclap, surfing, butterfly kicks)
+- 4 × 25m skulling
+- 100m with one less stroke per 25m
+- 2 × 100m focus on breathing out in the water and keeping one eye in the water when breathing in
+- 100m cool down
+
+**Total: 800m**
+
+---
+
+### The longer training plan
+
+- 200m warm up
+- 4 × 50m freestyle drills (ex. surfing, tickling the armpit, butterfly kicks, one arm swimming)
+- 4 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 200m backstroke (4 strokes w/ one arm, 4 strokes w/ the other arm, 4 strokes w/ both arms)
+- 4 × 50m do as few strokes as possible per 25m
+- 3 × (50m swim fast, 25m catch up drill, 25m four strokes freestyle + 4 strokes backstroke etc)
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter training plan
+
+- 100m warm-up
+- 2 × 100m freestyle drills (tickling your armpit, handclap, surfing, butterfly kicks)
+- 4 × 25m skulling
+- 100m with one less stroke per 25m
+- 2 × 100m focus on breathing out in the water and keeping one eye in the water when breathing in
+- 100m cool down
+
+**Total: 800m**
+
+---
+
+<div style="page-break-before: always;"></div>
+
+## Page 10
+
+### The longer training plan
+
+- 200m warm up
+- 3 × 50m freestyle drills (ex. closed-fist, head up out of the water, catch-up)
+- 2 × 50m kicks (50m freestyle, 50m on the back)
+- 400m freestyle distance swimming, continuous pace (focus on a steady rhythm)
+- 2 × 75m breaststroke (25m only arms, 25m easy, 25m only legs)
+- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 3 × 100m freestyle (50m fast, 50m easy)
+- 200m cool down
+
+**Total: 1650m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 4 × 25m catch up drill
+- 4 × 25m kicks, hold the same speed for each 25m
+- 200m freestyle distance swimming, continuous pace (focus on a steady rhythm)
+- 2 × 100m freestyle (increase your speed every 25m, last 25m should be very fast)
+- 100m cool down
+
+**Total: 800m**
+
+---
+
+### The longer training plan
+
+- 200m warm up
+- 3 × 50m freestyle drills (ex. closed-fist, head up out of the water, catch-up)
+- 2 × 50m kicks (50m freestyle, 50m on the back)
+- 400m freestyle distance swimming, continuous pace (focus on a steady rhythm)
+- 2 × 75m breaststroke (25m only arms, 25m easy, 25m only legs)
+- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 3 × 100m freestyle (50m fast, 50m easy)
+- 200m cool down
+
+**Total: 1650m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 4 × 25m catch up drill
+- 4 × 25m kicks, hold the same speed for each 25m
+- 200m freestyle distance swimming, continuous pace (focus on a steady rhythm)
+- 2 × 100m freestyle (increase your speed every 25m, last 25m should be very fast)
+- 100m cool down
+
+**Total: 800m**
+
+---
+
+<div style="page-break-before: always;"></div>
+
+## Page 11
+
+### The longer training plan
+
+- 200m warm up
+- 3 × 50m freestyle drills (ex. closed-fist, surfing, catch-up)
+- 2 × 150m (50m kicks as fast as possible, 50m easy, 50m only arms)
+- 2 × 100m stroke of your choice, turn without touching the wall
+- 3 sets breaststroke (first 100m: 1 armstroke 2 legstrokes, then 100m: as high as possible, last 50m w/ butterfly kicks)
+- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 2 × 100m(50m as few strokes as possible, 50m as few breaths as possible)
+- 200m cool down
+
+**Total: 1650m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 50m freestyle drills (ex. closed-fist, surfing, catch-up)
+- 50m kicks
+- 2 × 50m stroke of your choice, turn without touching the wall
+- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 4 × 25m try to only breathe 5 times per 25 m
+- 100m cool down
+
+**Total: 750m**
+
+---
+
+### The longer training plan
+
+- 200m warm up
+- 3 × 50m freestyle drills (ex. closed-fist, surfing, catch-up)
+- 2 × 150m (50m kicks as fast as possible, 50m easy, 50m only arms)
+- 2 × 100m stroke of your choice, turn without touching the wall
+- 3 sets breaststroke (first 100m: 1 armstroke 2 legstrokes, then 100m: as high as possible, last 50m w/ butterfly kicks)
+- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 2 × 100m(50m as few strokes as possible, 50m as few breaths as possible)
+- 200m cool down
+
+**Total: 1650m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 50m freestyle drills (ex. closed-fist, surfing, catch-up)
+- 50m kicks
+- 2 × 50m stroke of your choice, turn without touching the wall
+- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 4 × 25m try to only breathe 5 times per 25 m
+- 100m cool down
+
+**Total: 750m**
+
+---
+
+<div style="page-break-before: always;"></div>
+
+## Page 12
+
+### The longer training plan
+
+- 200m warm up
+- 3 × 100m mixed freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) Singapore drills (one arm normal, the other stays in the water))
+- 2 × 150m (50m kicks as fast as possible, 50m easy, 50m only arms with minimal leg movement)
+- 100m kicking on your back in streamline position
+- 100m backstroke: focus on your arms (just kick enough to stay afloat)
+- 2 × 100m backstroke using both arms & legs
+- 200m stroke of your choice (try to do it without break)
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 100m mixed freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) Singapore drills (one arm normal, the other stays in the water))
+- 50m kicking on your back in streamline position
+- 100m backstroke: focus on your arms (just kick enough to stay afloat)
+- 100m backstroke using both arms & legs
+- 100m cool down
+
+**Total: 750m**
+
+---
+
+### The longer training plan
+
+- 200m warm up
+- 3 × 100m mixed freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) Singapore drills (one arm normal, the other stays in the water))
+- 2 × 150m (50m kicks as fast as possible, 50m easy, 50m only arms with minimal leg movement)
+- 100m kicking on your back in streamline position
+- 100m backstroke: focus on your arms (just kick enough to stay afloat)
+- 2 × 100m backstroke using both arms & legs
+- 200m stroke of your choice (try to do it without break)
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 100m mixed freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) Singapore drills (one arm normal, the other stays in the water))
+- 50m kicking on your back in streamline position
+- 100m backstroke: focus on your arms (just kick enough to stay afloat)
+- 100m backstroke using both arms & legs
+- 100m cool down
+
+**Total: 750m**
+
+---
+
+<div style="page-break-before: always;"></div>
+
+## Page 13
+
+### The longer training plan
+
+- 200m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) catch-up, 2) surfing, 3) Singapore drills (one arm normal, the other also paddles, but stays in the water))
+- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 5 × 50m (breathe every 2nd, 3rd, … 6th stroke)
+- 2 × 150m (50m kicks, 50m easy, 50m only arms with minimal leg movement)
+- 200m backstroke
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) catch-up, 2) surfing, 3) closed-fist)
+- 50m sculling: 25m regular sculling, 25m mid-way sculling
+- 50m kicking
+- 4 × 25m (breathe every 2nd, 3rd, 4th, 5th stroke)
+- 100m cool down
+
+**Total: 700m**
+
+---
+
+### The longer training plan
+
+- 200m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) catch-up, 2) surfing, 3) Singapore drills (one arm normal, the other also paddles, but stays in the water))
+- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
+- 5 × 50m (breathe every 2nd, 3rd, … 6th stroke)
+- 2 × 150m (50m kicks, 50m easy, 50m only arms with minimal leg movement)
+- 200m backstroke
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) catch-up, 2) surfing, 3) closed-fist)
+- 50m sculling: 25m regular sculling, 25m mid-way sculling
+- 50m kicking
+- 4 × 25m (breathe every 2nd, 3rd, 4th, 5th stroke)
+- 100m cool down
+
+**Total: 700m**
 
 ---
 
@@ -457,33 +755,51 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 ## Page 14
 
+### The longer training plan
 
-### Longer training plan
+- 200m warm up
+- 4 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) butterfly kicks, 4) one arm swimming)
+- 2 × 100m sprint - time yourself! (or let someone time you)
+- 3 × 100m backstroke drills (alternating as well; ex. 1) kicks on your back, 2) one-armed, 3) closed fist)
+- 3 × 100m mixed (75m backstroke, 25m butterfly)
+- 200m cool down
 
-- 200m warm-up
-- 2 × 50m (25m kicks on your side, 25m one arm swimming freestyle)
-- 2 × 50m only arms, stroke of your choice
-
-#### Set: stroke of your choice
-
-- 4 ×  (50m kicks, 50m as few strokes as possible, 50m as few breaths as possible, 50m fast)
-- 100m easy
-- 200m cool-down
-
-**Total: 1500m**
+**Total: 1600m**
 
 
-### Shorter training plan
+### The shorter training plan
 
-- 150m warmup
-- 8 × 25m fast, 30s rest
-- 100m with one less stroke per 25m
-- 4 × 25m try to only breathe 5 times per 25 m
-- 100m with one less stroke per 25m
-- 150m cool down
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) one arm swimming)
+- 2 × 50m sprint - time yourself! (or let someone time you)
+- 2 × 75m breaststroke (25m only arms, 25m easy, 25m only legs)
+- 100m cool down
 
-**Total: 800m**
+**Total: 750m**
 
+---
+
+### The longer training plan
+
+- 200m warm up
+- 4 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) butterfly kicks, 4) one arm swimming)
+- 2 × 100m sprint - time yourself! (or let someone time you)
+- 3 × 100m backstroke drills (alternating as well; ex. 1) kicks on your back, 2) one-armed, 3) closed fist)
+- 3 × 100m mixed (75m backstroke, 25m butterfly)
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) one arm swimming)
+- 2 × 50m sprint - time yourself! (or let someone time you)
+- 2 × 75m breaststroke (25m only arms, 25m easy, 25m only legs)
+- 100m cool down
+
+**Total: 750m**
 
 ---
 
@@ -491,33 +807,49 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 ## Page 15
 
+### The longer (harder) training plan
 
-### Longer training plan
+- 200m warm up
+- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) surfing, 2) tickling the armpit, 3) corkscrew, 4) one arm swimming)
+- 2 × (50m kicks, 50m only arms, 50m easy, 50m as few breaths as possible)
+- 3 × 100m backstroke drills (alternating as well; ex.: 1) kicks on your back, 2) one-armed, 3) closed fist)
+- 100m backstroke
+- 200m cool down
 
-- 200m warm-up
-- 2 × 50m (25m kicks on your side, 25m one arm swimming freestyle)
-- 2 × 50m only arms, stroke of your choice
-
-#### Set: stroke of your choice
-
-- 4 ×  (50m kicks, 50m as few strokes as possible, 50m as few breaths as possible, 50m fast)
-- 100m easy
-- 200m cool-down
-
-**Total: 1500m**
+**Total: 1600m**
 
 
-### Shorter training plan
+### The shorter (easier) training plan
 
-- 150m warmup
-- 8 × 25m fast, 30s rest
-- 100m with one less stroke per 25m
-- 4 × 25m try to only breathe 5 times per 25 m
-- 100m with one less stroke per 25m
-- 150m cool down
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) one arm swimming)
+- 2 × (25m kicks, 25m easy, 25m only arms, 25m easy)
+- 100m cool down
 
-**Total: 800m**
+**Total: 700m**
 
+---
+
+### The longer (harder) training plan
+
+- 200m warm up
+- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) surfing, 2) tickling the armpit, 3) corkscrew, 4) one arm swimming)
+- 2 × (50m kicks, 50m only arms, 50m easy, 50m as few breaths as possible)
+- 3 × 100m backstroke drills (alternating as well; ex.: 1) kicks on your back, 2) one-armed, 3) closed fist)
+- 100m backstroke
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter (easier) training plan
+
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) one arm swimming)
+- 2 × (25m kicks, 25m easy, 25m only arms, 25m easy)
+- 100m cool down
+
+**Total: 700m**
 
 ---
 
@@ -525,15 +857,12 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 ## Page 16
 
-
 ### The longer training plan
 
 - 200m warm up
-- 4 × 50m freestyle drills (ex. surfing, tickling the armpit, butterfly kicks, one arm swimming)
-- 4 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 200m backstroke (4 strokes w/ one arm, 4 strokes w/ the other arm, 4 strokes w/ both arms)
-- 4 × 50m do as few strokes as possible per 25m
-- 3 × (50m swim fast, 25m catch up drill, 25m four strokes freestyle + 4 strokes backstroke etc)
+- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) closed-fist, 2) catch-up, 3) Singapore drills, 4) sculling)
+- 3 ×  breaststroke: (50m 1 armstroke 2 legstrokes, 50m easy, 50m as high as possible, 50m with freestyle kicks)
+- 200m turn without touching the wall
 - 200m cool down
 
 **Total: 1600m**
@@ -541,15 +870,36 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 ### The shorter training plan
 
-- 100m warm-up
-- 2 × 100m freestyle drills (tickling your armpit, handclap, surfing, butterfly kicks)
-- 4 × 25m skulling
-- 100m with one less stroke per 25m
-- 2 × 100m focus on breathing out in the water and keeping one eye in the water when breathing in
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) catch-up, 3) sculling)
+- 2 ×  breaststroke: (25m 1 armstroke 2 legstrokes, 25m easy, 25m as high as possible, 25m with freestyle kicks)
+- 2 × 50m turn without touching the wall
 - 100m cool down
 
 **Total: 800m**
 
+---
+
+### The longer training plan
+
+- 200m warm up
+- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) closed-fist, 2) catch-up, 3) Singapore drills, 4) sculling)
+- 3 ×  breaststroke: (50m 1 armstroke 2 legstrokes, 50m easy, 50m as high as possible, 50m with freestyle kicks)
+- 200m turn without touching the wall
+- 200m cool down
+
+**Total: 1600m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) catch-up, 3) sculling)
+- 2 ×  breaststroke: (25m 1 armstroke 2 legstrokes, 25m easy, 25m as high as possible, 25m with freestyle kicks)
+- 2 × 50m turn without touching the wall
+- 100m cool down
+
+**Total: 800m**
 
 ---
 
@@ -557,542 +907,61 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 ## Page 17
 
-
 ### The longer training plan
 
 - 200m warm up
-- 4 × 50m freestyle drills (ex. surfing, tickling the armpit, butterfly kicks, one arm swimming)
-- 4 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 200m backstroke (4 strokes w/ one arm, 4 strokes w/ the other arm, 4 strokes w/ both arms)
-- 4 × 50m do as few strokes as possible per 25m
-- 3 × (50m swim fast, 25m catch up drill, 25m four strokes freestyle + 4 strokes backstroke etc)
+- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) one arm, 4) corkscrew)
+- 2 × 150m (50m kicks, 50m easy, 50m only arms)
+- 300m stroke of your choice (try to do it without break)
+- 2 × (50m kicks on your back, 50m backstroke: focus on your arms (just kick enough to stay afloat))
+- 100m normal backstroke
 - 200m cool down
 
-**Total: 1600m**
+**Total: 1700m**
 
 
 ### The shorter training plan
 
-- 100m warm-up
-- 2 × 100m freestyle drills (tickling your armpit, handclap, surfing, butterfly kicks)
-- 4 × 25m skulling
-- 100m with one less stroke per 25m
-- 2 × 100m focus on breathing out in the water and keeping one eye in the water when breathing in
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) tickling your armpits, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) one arm)
+- 2 × 50m (25m as few breaths as possible, 25m easy)
+- 50m kicks
+- 100m stroke of your choice (try to do it without break)
 - 100m cool down
 
-**Total: 800m**
+**Total: 750m**
 
+---
+
+### The longer training plan
+
+- 200m warm up
+- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) one arm, 4) corkscrew)
+- 2 × 150m (50m kicks, 50m easy, 50m only arms)
+- 300m stroke of your choice (try to do it without break)
+- 2 × (50m kicks on your back, 50m backstroke: focus on your arms (just kick enough to stay afloat))
+- 100m normal backstroke
+- 200m cool down
+
+**Total: 1700m**
+
+
+### The shorter training plan
+
+- 100m warm up
+- 3 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) tickling your armpits, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) one arm)
+- 2 × 50m (25m as few breaths as possible, 25m easy)
+- 50m kicks
+- 100m stroke of your choice (try to do it without break)
+- 100m cool down
+
+**Total: 750m**
 
 ---
 
 <div style="page-break-before: always;"></div>
 
 ## Page 18
-
-
-### The longer training plan
-
-- 200m warm up
-- 3 × 50m freestyle drills (ex. closed-fist, head up out of the water, catch-up)
-- 2 × 50m kicks (50m freestyle, 50m on the back)
-- 400m freestyle distance swimming, continuous pace (focus on a steady rhythm)
-- 2 × 75m breaststroke (25m only arms, 25m easy, 25m only legs)
-- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 3 × 100m freestyle (50m fast, 50m easy)
-- 200m cool down
-
-**Total: 1650m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 4 × 25m catch up drill
-- 4 × 25m kicks, hold the same speed for each 25m
-- 200m freestyle distance swimming, continuous pace (focus on a steady rhythm)
-- 2 × 100m freestyle (increase your speed every 25m, last 25m should be very fast)
-- 100m cool down
-
-**Total: 800m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 19
-
-
-### The longer training plan
-
-- 200m warm up
-- 3 × 50m freestyle drills (ex. closed-fist, head up out of the water, catch-up)
-- 2 × 50m kicks (50m freestyle, 50m on the back)
-- 400m freestyle distance swimming, continuous pace (focus on a steady rhythm)
-- 2 × 75m breaststroke (25m only arms, 25m easy, 25m only legs)
-- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 3 × 100m freestyle (50m fast, 50m easy)
-- 200m cool down
-
-**Total: 1650m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 4 × 25m catch up drill
-- 4 × 25m kicks, hold the same speed for each 25m
-- 200m freestyle distance swimming, continuous pace (focus on a steady rhythm)
-- 2 × 100m freestyle (increase your speed every 25m, last 25m should be very fast)
-- 100m cool down
-
-**Total: 800m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 20
-
-
-### The longer training plan
-
-- 200m warm up
-- 3 × 50m freestyle drills (ex. closed-fist, surfing, catch-up)
-- 2 × 150m (50m kicks as fast as possible, 50m easy, 50m only arms)
-- 2 × 100m stroke of your choice, turn without touching the wall
-- 3 sets breaststroke (first 100m: 1 armstroke 2 legstrokes, then 100m: as high as possible, last 50m w/ butterfly kicks)
-- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 2 × 100m(50m as few strokes as possible, 50m as few breaths as possible)
-- 200m cool down
-
-**Total: 1650m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 50m freestyle drills (ex. closed-fist, surfing, catch-up)
-- 50m kicks
-- 2 × 50m stroke of your choice, turn without touching the wall
-- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 4 × 25m try to only breathe 5 times per 25 m
-- 100m cool down
-
-**Total: 750m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 21
-
-
-### The longer training plan
-
-- 200m warm up
-- 3 × 50m freestyle drills (ex. closed-fist, surfing, catch-up)
-- 2 × 150m (50m kicks as fast as possible, 50m easy, 50m only arms)
-- 2 × 100m stroke of your choice, turn without touching the wall
-- 3 sets breaststroke (first 100m: 1 armstroke 2 legstrokes, then 100m: as high as possible, last 50m w/ butterfly kicks)
-- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 2 × 100m(50m as few strokes as possible, 50m as few breaths as possible)
-- 200m cool down
-
-**Total: 1650m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 50m freestyle drills (ex. closed-fist, surfing, catch-up)
-- 50m kicks
-- 2 × 50m stroke of your choice, turn without touching the wall
-- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 4 × 25m try to only breathe 5 times per 25 m
-- 100m cool down
-
-**Total: 750m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 22
-
-
-### The longer training plan
-
-- 200m warm up
-- 3 × 100m mixed freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) Singapore drills (one arm normal, the other stays in the water))
-- 2 × 150m (50m kicks as fast as possible, 50m easy, 50m only arms with minimal leg movement)
-- 100m kicking on your back in streamline position
-- 100m backstroke: focus on your arms (just kick enough to stay afloat)
-- 2 × 100m backstroke using both arms & legs
-- 200m stroke of your choice (try to do it without break)
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m mixed freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) Singapore drills (one arm normal, the other stays in the water))
-- 50m kicking on your back in streamline position
-- 100m backstroke: focus on your arms (just kick enough to stay afloat)
-- 100m backstroke using both arms & legs
-- 100m cool down
-
-**Total: 750m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 23
-
-
-### The longer training plan
-
-- 200m warm up
-- 3 × 100m mixed freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) Singapore drills (one arm normal, the other stays in the water))
-- 2 × 150m (50m kicks as fast as possible, 50m easy, 50m only arms with minimal leg movement)
-- 100m kicking on your back in streamline position
-- 100m backstroke: focus on your arms (just kick enough to stay afloat)
-- 2 × 100m backstroke using both arms & legs
-- 200m stroke of your choice (try to do it without break)
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m mixed freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) Singapore drills (one arm normal, the other stays in the water))
-- 50m kicking on your back in streamline position
-- 100m backstroke: focus on your arms (just kick enough to stay afloat)
-- 100m backstroke using both arms & legs
-- 100m cool down
-
-**Total: 750m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 24
-
-
-### The longer training plan
-
-- 200m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) catch-up, 2) surfing, 3) Singapore drills (one arm normal, the other also paddles, but stays in the water))
-- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 5 × 50m (breathe every 2nd, 3rd, … 6th stroke)
-- 2 × 150m (50m kicks, 50m easy, 50m only arms with minimal leg movement)
-- 200m backstroke
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) catch-up, 2) surfing, 3) closed-fist)
-- 50m sculling: 25m regular sculling, 25m mid-way sculling
-- 50m kicking
-- 4 × 25m (breathe every 2nd, 3rd, 4th, 5th stroke)
-- 100m cool down
-
-**Total: 700m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 25
-
-
-### The longer training plan
-
-- 200m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) catch-up, 2) surfing, 3) Singapore drills (one arm normal, the other also paddles, but stays in the water))
-- 2 × 75m (25m regular sculling, 25m mid-way sculling, 25m normal swim)
-- 5 × 50m (breathe every 2nd, 3rd, … 6th stroke)
-- 2 × 150m (50m kicks, 50m easy, 50m only arms with minimal leg movement)
-- 200m backstroke
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) catch-up, 2) surfing, 3) closed-fist)
-- 50m sculling: 25m regular sculling, 25m mid-way sculling
-- 50m kicking
-- 4 × 25m (breathe every 2nd, 3rd, 4th, 5th stroke)
-- 100m cool down
-
-**Total: 700m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 26
-
-
-### The longer training plan
-
-- 200m warm up
-- 4 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) butterfly kicks, 4) one arm swimming)
-- 2 × 100m sprint - time yourself! (or let someone time you)
-- 3 × 100m backstroke drills (alternating as well; ex. 1) kicks on your back, 2) one-armed, 3) closed fist)
-- 3 × 100m mixed (75m backstroke, 25m butterfly)
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) one arm swimming)
-- 2 × 50m sprint - time yourself! (or let someone time you)
-- 2 × 75m breaststroke (25m only arms, 25m easy, 25m only legs)
-- 100m cool down
-
-**Total: 750m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 27
-
-
-### The longer training plan
-
-- 200m warm up
-- 4 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) butterfly kicks, 4) one arm swimming)
-- 2 × 100m sprint - time yourself! (or let someone time you)
-- 3 × 100m backstroke drills (alternating as well; ex. 1) kicks on your back, 2) one-armed, 3) closed fist)
-- 3 × 100m mixed (75m backstroke, 25m butterfly)
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) one arm swimming)
-- 2 × 50m sprint - time yourself! (or let someone time you)
-- 2 × 75m breaststroke (25m only arms, 25m easy, 25m only legs)
-- 100m cool down
-
-**Total: 750m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 28
-
-
-### The longer (harder) training plan
-
-- 200m warm up
-- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) surfing, 2) tickling the armpit, 3) corkscrew, 4) one arm swimming)
-- 2 × (50m kicks, 50m only arms, 50m easy, 50m as few breaths as possible)
-- 3 × 100m backstroke drills (alternating as well; ex.: 1) kicks on your back, 2) one-armed, 3) closed fist)
-- 100m backstroke
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter (easier) training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) one arm swimming)
-- 2 × (25m kicks, 25m easy, 25m only arms, 25m easy)
-- 100m cool down
-
-**Total: 700m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 29
-
-
-### The longer (harder) training plan
-
-- 200m warm up
-- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) surfing, 2) tickling the armpit, 3) corkscrew, 4) one arm swimming)
-- 2 × (50m kicks, 50m only arms, 50m easy, 50m as few breaths as possible)
-- 3 × 100m backstroke drills (alternating as well; ex.: 1) kicks on your back, 2) one-armed, 3) closed fist)
-- 100m backstroke
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter (easier) training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) surfing, 2) tickling the armpit, 3) one arm swimming)
-- 2 × (25m kicks, 25m easy, 25m only arms, 25m easy)
-- 100m cool down
-
-**Total: 700m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 30
-
-
-### The longer training plan
-
-- 200m warm up
-- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) closed-fist, 2) catch-up, 3) Singapore drills, 4) sculling)
-- 3 ×  breaststroke: (50m 1 armstroke 2 legstrokes, 50m easy, 50m as high as possible, 50m with freestyle kicks)
-- 200m turn without touching the wall
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) catch-up, 3) sculling)
-- 2 ×  breaststroke: (25m 1 armstroke 2 legstrokes, 25m easy, 25m as high as possible, 25m with freestyle kicks)
-- 2 × 50m turn without touching the wall
-- 100m cool down
-
-**Total: 800m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 31
-
-
-### The longer training plan
-
-- 200m warm up
-- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) closed-fist, 2) catch-up, 3) Singapore drills, 4) sculling)
-- 3 ×  breaststroke: (50m 1 armstroke 2 legstrokes, 50m easy, 50m as high as possible, 50m with freestyle kicks)
-- 200m turn without touching the wall
-- 200m cool down
-
-**Total: 1600m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every 25m; ex.: 1) closed-fist, 2) catch-up, 3) sculling)
-- 2 ×  breaststroke: (25m 1 armstroke 2 legstrokes, 25m easy, 25m as high as possible, 25m with freestyle kicks)
-- 2 × 50m turn without touching the wall
-- 100m cool down
-
-**Total: 800m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 32
-
-
-### The longer training plan
-
-- 200m warm up
-- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) one arm, 4) corkscrew)
-- 2 × 150m (50m kicks, 50m easy, 50m only arms)
-- 300m stroke of your choice (try to do it without break)
-- 2 × (50m kicks on your back, 50m backstroke: focus on your arms (just kick enough to stay afloat))
-- 100m normal backstroke
-- 200m cool down
-
-**Total: 1700m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) tickling your armpits, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) one arm)
-- 2 × 50m (25m as few breaths as possible, 25m easy)
-- 50m kicks
-- 100m stroke of your choice (try to do it without break)
-- 100m cool down
-
-**Total: 750m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 33
-
-
-### The longer training plan
-
-- 200m warm up
-- 4 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) closed-fist, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) one arm, 4) corkscrew)
-- 2 × 150m (50m kicks, 50m easy, 50m only arms)
-- 300m stroke of your choice (try to do it without break)
-- 2 × (50m kicks on your back, 50m backstroke: focus on your arms (just kick enough to stay afloat))
-- 100m normal backstroke
-- 200m cool down
-
-**Total: 1700m**
-
-
-### The shorter training plan
-
-- 100m warm up
-- 3 × 100m freestyle drills (alternate between drill and normal every lane; ex.: 1) tickling your armpits, 2) overkick (kick at 2x tempo while maintaining normal arm speed), 3) one arm)
-- 2 × 50m (25m as few breaths as possible, 25m easy)
-- 50m kicks
-- 100m stroke of your choice (try to do it without break)
-- 100m cool down
-
-**Total: 750m**
-
-
----
-
-<div style="page-break-before: always;"></div>
-
-## Page 34
-
 
 ### The longer training plan
 
@@ -1119,13 +988,7 @@ The pyramid should be at a quite fast tempo so that you’re properly tired at t
 
 **Total: 800m**
 
-
 ---
-
-<div style="page-break-before: always;"></div>
-
-## Page 35
-
 
 ### The longer training plan
 
